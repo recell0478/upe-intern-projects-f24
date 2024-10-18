@@ -6,7 +6,7 @@ For my UPE intern project, I decided to redo the UI/UX and the front-end develop
 You can view a demo of the project [Demo Video](https://drive.google.com/file/d/1gm3JP9Tx3Dt6RUddg3RFoXDiRQe-Y6hH/view?usp=sharing).
 
 ## Github Repository
-[Github Repository](https://github.com/recell0478/upe-website)
+[View Repository](https://github.com/recell0478/upe-website)
 
 ## Features
 - Redesigned UI/UX for better usability
